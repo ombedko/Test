@@ -29,7 +29,7 @@ namespace SimulationGUI {
 			}
 			return null;
 		}
-        //bla bla bla 2
+        //bla bla bla
 		public static ODESolver MakeSolver(SolverType solver) {
 			switch(solver) {
 				case SolverType.FE:
